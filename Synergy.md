@@ -21,18 +21,16 @@
 
       synergy failed to connect secure socket
       
-      
-     -상단 메뉴의 Edit > Setting > SSL관련 체크박스를 Client와 Server 동일하게 잡기
-     ※무료버젼은 SSL지원 안하므로 Uncheck한다.
+-상단 메뉴의 Edit > Setting > SSL관련 체크박스를 Client와 Server 동일하게 잡기
+※무료버젼은 SSL지원 안하므로 Uncheck한다.
      
       synergy failed to connect to server incompatible client 1.5
       
-      
-     - 두 pc의 synergy버전을 맞추고 해결하였다.
-     - synergy 재설치로 해결했다는 케이스도 있으니 참고할것(https://symless.com/forums/topic/3582-failed-to-connect-to-server-incompatible-client-15/)
-     ddd
+- 두 pc의 synergy버전을 맞추고 해결하였다.
+- synergy 재설치로 해결했다는 케이스도 있으니 참고할것
+(https://symless.com/forums/topic/3582-failed-to-connect-to-server-incompatible-client-15/)
      
      'Server refused client with our name [Client명]'
-     
-     - Server의 Configure에서 Client명 잡아줌
-     (https://symless.com/forums/topic/2550-server-refused-client-with-our-name/)
+
+- Server의 Configure에서 Client명 잡아줌
+(https://symless.com/forums/topic/2550-server-refused-client-with-our-name/)
