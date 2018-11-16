@@ -6,7 +6,7 @@
 
 
 ## 2)설치환경
-#### - 윈도우10(Server) / 우분투16.04(Client)
+#### - 윈도우10(Server) / 우분투18.04(Client)
     
 ## 3)Synergy 버전
 #### - 윈도우 : synergy-v1.8.8-stable-Windows-x64.msi
