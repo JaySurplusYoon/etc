@@ -5,19 +5,19 @@
 #### -현재 유료이나 과거 무료버전을 찾아 사용 가능
 
 
-### 2)설치환경
+## 2)설치환경
 #### - 윈도우10(Server) / 우분투16.04(Client)
     
-### 3)Synergy 버전
+## 3)Synergy 버전
 #### - 윈도우 : synergy-v1.8.8-stable-Windows-x64.msi
 #### - 우분투 : synergy-v1.8.8-stable-Linux-x86_64.deb
 
-### 4)기능
+## 4)기능
 #### - 클립보드 문자 copy&paste
 #### - 토글키 활용(alt+p/o)하여 마치 alt+tab을 활용하듯이 서로 다른 pc로 전환
 #### - FTP 트러블슈팅 실패
 
-### 5)트러블슈팅
+## 5)트러블슈팅
 
 
     synergy failed to connect secure socket
