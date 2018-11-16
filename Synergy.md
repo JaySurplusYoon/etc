@@ -22,7 +22,8 @@
 
     synergy failed to connect secure socket
       
--상단 메뉴의 Edit > Setting > SSL관련 체크박스를 Client와 Server 동일하게 잡기
+- 상단 메뉴의 Edit > Setting > SSL관련 체크박스를 Client와 Server 동일하게 잡기
+
 ※무료버젼은 SSL지원 안하므로 Uncheck한다.
 
      
