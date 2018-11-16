@@ -28,9 +28,10 @@
       
 - 두 pc의 synergy버전을 맞추고 해결하였다.
 - synergy 재설치로 해결했다는 케이스도 있으니 참고할것
+
 (https://symless.com/forums/topic/3582-failed-to-connect-to-server-incompatible-client-15/)
      
-      Server refused client with our name [Client명]
+    Server refused client with our name [Client명]
 
 - Server의 Configure에서 Client명 잡아줌
 (https://symless.com/forums/topic/2550-server-refused-client-with-our-name/)
