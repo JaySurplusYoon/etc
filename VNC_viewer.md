@@ -8,7 +8,9 @@
     
 ## 3)설치방법
 #### - 모바일
-'vnc viewer 다운로드'
+
+' vnc viewer 다운로드 '
+
 #### - 우분투  
 '설정 -> sharing -> on -> ScreenSharing -> required password '
 'sudo apt install dconf-editor'
