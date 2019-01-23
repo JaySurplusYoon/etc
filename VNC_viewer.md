@@ -12,5 +12,6 @@
 > vnc viewer 다운로드
 
 #### - 우분투  
-> 설정 -> sharing -> on -> ScreenSharing -> required password '
+> 설정 -> sharing -> on -> ScreenSharing -> required password
+
 `sudo apt install dconf-editor`
